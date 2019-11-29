@@ -11,9 +11,9 @@ npm install c5-random-string-module --save
 var random = require('c5-random-string-module');
 
 ```javascript
-##METHOD
+## METHOD
 
-#RandomChar
+# RandomChar
 This method takes in an integer value which specifies the length of the returned string.
 
 console.log(random.RandomChar(40));
